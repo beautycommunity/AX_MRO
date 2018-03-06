@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<connection>
+  <SERVER>192.168.10.199</SERVER>
+  <DB>interfaceBBPRD</DB>
+  <ID>sa</ID>
+  <PASS>Bea@#02</PASS>
+</connection>
